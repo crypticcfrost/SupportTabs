@@ -1,7 +1,7 @@
 /**
 * @name SupportTabs
 * @displayName PMA Support Tabs
-* @source https://github.com/samfundev/BetterDiscordStuff/blob/master/Plugins/ChannelTabs/ChannelTabs.plugin.js
+* @source https://github.com/TS-7/SupportTabs/blob/main/ChannelTabs.plugin.js
 * @donate https://paypal.com/paypalme/LiamDevelopment2001
 * @authorId 460078206326800434
 * @version 2.6.9
@@ -17,15 +17,11 @@ module.exports = (() => {
 					name: "Liaamm",
 					discord_id: "460078206326800434",
 					github_username: "TS-7",
-				},
-				{
-					name: "samfundev",
-					discord_id: "76052829285916672",
-					github_username: "samfundev",
 				}
 			],
 			version: "2.6.9",
 			description: "Allows you to have tickets open on tabs on the client",
+			github: "https://github.com/TS-7/SupportTabs/blob/main/ChannelTabs.plugin.js"
 		},
 		changelog: [
 			{
